@@ -104,12 +104,6 @@ Just open `index.html` in any modern browser.
 
 ---
 
-## 📷 Preview GIF
-
-preview gif/preview-gif.mp4
-
----
-
 
 ## 👩‍💻 Author
 **Prachi Garg**  
