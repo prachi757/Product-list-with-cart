@@ -4,6 +4,11 @@ A responsive **dessert ordering web app** built with **HTML, CSS, and JavaScript
 
 ---
 
+## 🌐 Live Demo
+🔗 **Play Now:** [https://prachi757.github.io/Product-list-with-cart/](https://prachi757.github.io/Product-list-with-cart/)
+
+---
+
 ## ✅ Features
 
 - **Dynamic Product Listing**: Fetches dessert items from an external API.
